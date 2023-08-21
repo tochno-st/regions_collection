@@ -1,0 +1,1962 @@
+---
+version: v2.0
+title: Эталонный справочник наименований регионов, кодов ОКАТО и ОКТМО проекта Если быть точным
+
+dict:
+  russia:
+    id: 1
+    name_rus: Российская Федерация
+    name_eng: Russia
+    name_constitution: Российская Федерация
+    name_fns: Российская Федерация
+    name_fias: Российская Федерация
+    name_rst_data: Российская Федерация
+    name_emiss: Российская Федерация
+    name_datawrapper: Россия
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: RU
+    level: страна
+    parent_id: None
+    parent_name: None
+  central_fd:
+    id: 2
+    name_rus: Центральный федеральный округ
+    name_eng: Central Federal District
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Центральный федеральный округ
+    name_emiss: Центральный федеральный округ
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: None
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
+  belgorod:
+    id: 140
+    name_rus: Белгородская область
+    name_eng: Belgorod
+    name_constitution: Белгородская область
+    name_fns: Белгородская область
+    name_fias: Белгородская область
+    name_rst_data: Белгородская область
+    name_emiss: Белгородская область
+    name_datawrapper: Белгородская область
+    name_datawrapper_square: Белгородская область
+    name_tableau: Belgorod
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: '31'
+    iso_code: RU-BEL
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  bryansk:
+    id: 150
+    name_rus: Брянская область
+    name_eng: Bryansk
+    name_constitution: Брянская область
+    name_fns: Брянская область
+    name_fias: Брянская область
+    name_rst_data: Брянская область
+    name_emiss: Брянская область
+    name_datawrapper: Брянская область
+    name_datawrapper_square: Брянская область
+    name_tableau: Bryansk
+    alternative_names: []
+    okato: '15000000'
+    oktmo: '15000000'
+    fns_code: '32'
+    iso_code: RU-BRY
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  vladimir:
+    id: 170
+    name_rus: Владимирская область
+    name_eng: Vladimir
+    name_constitution: Владимирская область
+    name_fns: Владимирская область
+    name_fias: Владимирская область
+    name_rst_data: Владимирская область
+    name_emiss: Владимирская область
+    name_datawrapper: Владимирская область
+    name_datawrapper_square: Владимирская область
+    name_tableau: Vladimir
+    alternative_names: []
+    okato: '17000000'
+    oktmo: '17000000'
+    fns_code: '33'
+    iso_code: RU-VLA
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  voronezh:
+    id: 200
+    name_rus: Воронежская область
+    name_eng: Voronezh
+    name_constitution: Воронежская область
+    name_fns: Воронежская область
+    name_fias: Воронежская область
+    name_rst_data: Воронежская область
+    name_emiss: Воронежская область
+    name_datawrapper: Воронежская область
+    name_datawrapper_square: Воронежская область
+    name_tableau: Voronezh
+    alternative_names: []
+    okato: '20000000'
+    oktmo: '20000000'
+    fns_code: '36'
+    iso_code: RU-VOR
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  ivanovo:
+    id: 240
+    name_rus: Ивановская область
+    name_eng: Ivanovo
+    name_constitution: Ивановская область
+    name_fns: Ивановская область
+    name_fias: Ивановская область
+    name_rst_data: Ивановская область
+    name_emiss: Ивановская область
+    name_datawrapper: Ивановская область
+    name_datawrapper_square: Ивановская область
+    name_tableau: Ivanovo
+    alternative_names: []
+    okato: '24000000'
+    oktmo: '24000000'
+    fns_code: '37'
+    iso_code: RU-IVA
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  kaluga:
+    id: 290
+    name_rus: Калужская область
+    name_eng: Kaluga
+    name_constitution: Калужская область
+    name_fns: Калужская область
+    name_fias: Калужская область
+    name_rst_data: Калужская область
+    name_emiss: Калужская область
+    name_datawrapper: Калужская область
+    name_datawrapper_square: Калужская область
+    name_tableau: Kaluga
+    alternative_names: []
+    okato: '29000000'
+    oktmo: '29000000'
+    fns_code: '40'
+    iso_code: RU-KLU
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  kostroma:
+    id: 340
+    name_rus: Костромская область
+    name_eng: Kostroma
+    name_constitution: Костромская область
+    name_fns: Костромская область
+    name_fias: Костромская область
+    name_rst_data: Костромская область
+    name_emiss: Костромская область
+    name_datawrapper: Костромская область
+    name_datawrapper_square: Костромская область
+    name_tableau: Kostroma
+    alternative_names: []
+    okato: '34000000'
+    oktmo: '34000000'
+    fns_code: '44'
+    iso_code: RU-KOS
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  kursk:
+    id: 380
+    name_rus: Курская область
+    name_eng: Kursk
+    name_constitution: Курская область
+    name_fns: Курская область
+    name_fias: Курская область
+    name_rst_data: Курская область
+    name_emiss: Курская область
+    name_datawrapper: Курская область
+    name_datawrapper_square: Курская область
+    name_tableau: Kursk
+    alternative_names: []
+    okato: '38000000'
+    oktmo: '38000000'
+    fns_code: '46'
+    iso_code: RU-KRS
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  lipetsk:
+    id: 420
+    name_rus: Липецкая область
+    name_eng: Lipetsk
+    name_constitution: Липецкая область
+    name_fns: Липецкая область
+    name_fias: Липецкая область
+    name_rst_data: Липецкая область
+    name_emiss: Липецкая область
+    name_datawrapper: Липецкая область
+    name_datawrapper_square: Липецкая область
+    name_tableau: Lipetsk
+    alternative_names: []
+    okato: '42000000'
+    oktmo: '42000000'
+    fns_code: '48'
+    iso_code: RU-LIP
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  moskovskaya:
+    id: 460
+    name_rus: Московская область
+    name_eng: Moskovsskaya
+    name_constitution: Московская область
+    name_fns: Московская область
+    name_fias: Московская область
+    name_rst_data: Московская область
+    name_emiss: Московская область
+    name_datawrapper: Московская область
+    name_datawrapper_square: Московская область
+    name_tableau: Moskovsskaya
+    alternative_names: []
+    okato: '46000000'
+    oktmo: '46000000'
+    fns_code: '50'
+    iso_code: RU-MOS
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  oryol:
+    id: 540
+    name_rus: Орловская область
+    name_eng: Orlovskaya
+    name_constitution: Орловская область
+    name_fns: Орловская область
+    name_fias: Орловская область
+    name_rst_data: Орловская область
+    name_emiss: Орловская область
+    name_datawrapper: Орловская область
+    name_datawrapper_square: Орловская область
+    name_tableau: Orlovskaya
+    alternative_names: []
+    okato: '54000000'
+    oktmo: '54000000'
+    fns_code: '57'
+    iso_code: RU-ORL
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  ryazan:
+    id: 610
+    name_rus: Рязанская область
+    name_eng: Ryazan
+    name_constitution: Рязанская область
+    name_fns: Рязанская область
+    name_fias: Рязанская область
+    name_rst_data: Рязанская область
+    name_emiss: Рязанская область
+    name_datawrapper: Рязанская область
+    name_datawrapper_square: Рязанская область
+    name_tableau: Ryazan
+    alternative_names: []
+    okato: '61000000'
+    oktmo: '61000000'
+    fns_code: '62'
+    iso_code: RU-RYA
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  smolensk:
+    id: 660
+    name_rus: Смоленская область
+    name_eng: Smolensk
+    name_constitution: Смоленская область
+    name_fns: Смоленская область
+    name_fias: Смоленская область
+    name_rst_data: Смоленская область
+    name_emiss: Смоленская область
+    name_datawrapper: Смоленская область
+    name_datawrapper_square: Смоленская область
+    name_tableau: Smolensk
+    alternative_names: []
+    okato: '66000000'
+    oktmo: '66000000'
+    fns_code: '67'
+    iso_code: RU-SMO
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  tambov:
+    id: 680
+    name_rus: Тамбовская область
+    name_eng: Tambov
+    name_constitution: Тамбовская область
+    name_fns: Тамбовская область
+    name_fias: Тамбовская область
+    name_rst_data: Тамбовская область
+    name_emiss: Тамбовская область
+    name_datawrapper: Тамбовская область
+    name_datawrapper_square: Тамбовская область
+    name_tableau: Tambov
+    alternative_names: []
+    okato: '68000000'
+    oktmo: '68000000'
+    fns_code: '68'
+    iso_code: RU-TAM
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  tver:
+    id: 280
+    name_rus: Тверская область
+    name_eng: Tver
+    name_constitution: Тверская область
+    name_fns: Тверская область
+    name_fias: Тверская область
+    name_rst_data: Тверская область
+    name_emiss: Тверская область
+    name_datawrapper: Тверская область
+    name_datawrapper_square: Тверская область
+    name_tableau: Tver
+    alternative_names: []
+    okato: '28000000'
+    oktmo: '28000000'
+    fns_code: '69'
+    iso_code: RU-TVE
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  tula:
+    id: 700
+    name_rus: Тульская область
+    name_eng: Tula
+    name_constitution: Тульская область
+    name_fns: Тульская область
+    name_fias: Тульская область
+    name_rst_data: Тульская область
+    name_emiss: Тульская область
+    name_datawrapper: Тульская область
+    name_datawrapper_square: Тульская область
+    name_tableau: Tula
+    alternative_names: []
+    okato: '70000000'
+    oktmo: '70000000'
+    fns_code: '71'
+    iso_code: RU-TUL
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  yaroslavl:
+    id: 780
+    name_rus: Ярославская область
+    name_eng: Yaroslavl
+    name_constitution: Ярославская область
+    name_fns: Ярославская область
+    name_fias: Ярославская область
+    name_rst_data: Ярославская область
+    name_emiss: Ярославская область
+    name_datawrapper: Ярославская область
+    name_datawrapper_square: Ярославская область
+    name_tableau: Yaroslavl
+    alternative_names: []
+    okato: '78000000'
+    oktmo: '78000000'
+    fns_code: '76'
+    iso_code: RU-YAR
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  moskva:
+    id: 450
+    name_rus: Москва
+    name_eng: Moskva (city)
+    name_constitution: Москва
+    name_fns: город федерального значения Москва
+    name_fias: Г. Москва
+    name_rst_data: Город Москва столица Российской Федерации город федерального значения
+    name_emiss: Город Москва столица Российской Федерации город федерального значения
+    name_datawrapper: Москва
+    name_datawrapper_square: Москва
+    name_tableau: Moskva (city)
+    alternative_names:
+    - Москва
+    - город Москва
+    okato: '45000000'
+    oktmo: '45000000'
+    fns_code: '77'
+    iso_code: RU-MOW
+    level: регион
+    parent_id: 2
+    parent_name: Центральный федеральный округ
+  northwestern_fd:
+    id: 3
+    name_rus: Северо-Западный федеральный округ
+    name_eng: Northwestern Federal District
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Северо-Западный федеральный округ
+    name_emiss: Северо-Западный федеральный округ
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names:
+    - Северо-Западный
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: None
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
+  karelia:
+    id: 860
+    name_rus: Республика Карелия
+    name_eng: Karelia
+    name_constitution: Республика Карелия
+    name_fns: Республика Карелия
+    name_fias: Республика Карелия
+    name_rst_data: Республика Карелия
+    name_emiss: Республика Карелия
+    name_datawrapper: Республика Карелия
+    name_datawrapper_square: Карелия
+    name_tableau: Karelia
+    alternative_names: []
+    okato: '86000000'
+    oktmo: '86000000'
+    fns_code: '10'
+    iso_code: RU-KR
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  komi:
+    id: 870
+    name_rus: Республика Коми
+    name_eng: Komi
+    name_constitution: Республика Коми
+    name_fns: Республика Коми
+    name_fias: Республика Коми
+    name_rst_data: Республика Коми
+    name_emiss: Республика Коми
+    name_datawrapper: Республика Коми
+    name_datawrapper_square: Коми
+    name_tableau: Komi
+    alternative_names: []
+    okato: '87000000'
+    oktmo: '87000000'
+    fns_code: '11'
+    iso_code: RU-KO
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  arkhangelsk:
+    id: 110
+    name_rus: Архангельская область
+    name_eng: Arkhangel'sk
+    name_constitution: Архангельская область
+    name_fns: Архангельская область
+    name_fias: Архангельская область
+    name_rst_data: Архангельская область
+    name_emiss: Архангельская область
+    name_datawrapper: Архангельская область
+    name_datawrapper_square: Архангельская область
+    name_tableau: Arkhangel'sk
+    alternative_names: []
+    okato: '11000000'
+    oktmo: '11000000'
+    fns_code: '29'
+    iso_code: RU-ARK
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  nenets:
+    id: 111
+    name_rus: Ненецкий автономный округ
+    name_eng: Nenets
+    name_constitution: Ненецкий автономный округ
+    name_fns: Ненецкий автономный округ
+    name_fias: Ненецкий автономный округ
+    name_rst_data: Ненецкий автономный округ (Архангельская область)
+    name_emiss: Ненецкий автономный округ (Архангельская область)
+    name_datawrapper: Ненецкий автономный округ
+    name_datawrapper_square: Ненецкий АО
+    name_tableau: Nenets
+    alternative_names: []
+    okato: '11100000'
+    oktmo: '11800000'
+    fns_code: '83'
+    iso_code: RU-NEN
+    level: регион
+    parent_id: 110
+    parent_name: Северо-Западный федеральный округ
+  arkhangelsk-withoit-nenets:
+    id: 112
+    name_rus: Архангельская область без автономного округа
+    name_eng: Arkhangelskaya without Nenets Autonomous Okrug
+    name_constitution: None
+    name_fns: Архангельская область без автономного округа
+    name_fias: Архангельская область без автономного округа
+    name_rst_data: Архангельская область без автономного округа
+    name_emiss: Архангельская область без автономного округа
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '11200000'
+    oktmo: '11800000'
+    fns_code: None
+    iso_code: None
+    level: регион
+    parent_id: 110
+    parent_name: Архангельская область
+  vologda:
+    id: 190
+    name_rus: Вологодская область
+    name_eng: Vologda
+    name_constitution: Вологодская область
+    name_fns: Вологодская область
+    name_fias: Вологодская область
+    name_rst_data: Вологодская область
+    name_emiss: Вологодская область
+    name_datawrapper: Вологодская область
+    name_datawrapper_square: Вологодская область
+    name_tableau: Vologda
+    alternative_names: []
+    okato: '19000000'
+    oktmo: '19000000'
+    fns_code: '35'
+    iso_code: RU-VLG
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  kaliningrad:
+    id: 270
+    name_rus: Калининградская область
+    name_eng: Kaliningrad
+    name_constitution: Калининградская область
+    name_fns: Калининградская область
+    name_fias: Калининградская область
+    name_rst_data: Калининградская область
+    name_emiss: Калининградская область
+    name_datawrapper: Калининградская область
+    name_datawrapper_square: Калининградская область
+    name_tableau: Kaliningrad
+    alternative_names:
+    - Калинингpадская область
+    okato: '27000000'
+    oktmo: '27000000'
+    fns_code: '39'
+    iso_code: RU-KGD
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  leningrad:
+    id: 410
+    name_rus: Ленинградская область
+    name_eng: Leningrad Oblast
+    name_constitution: Ленинградская область
+    name_fns: Ленинградская область
+    name_fias: Ленинградская область
+    name_rst_data: Ленинградская область
+    name_emiss: Ленинградская область
+    name_datawrapper: Ленинградская область
+    name_datawrapper_square: Ленинградская область
+    name_tableau: Leningrad Oblast
+    alternative_names: []
+    okato: '41000000'
+    oktmo: '41000000'
+    fns_code: '47'
+    iso_code: RU-LEN
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  murmansk:
+    id: 470
+    name_rus: Мурманская область
+    name_eng: Murmansk
+    name_constitution: Мурманская область
+    name_fns: Мурманская область
+    name_fias: Мурманская область
+    name_rst_data: Мурманская область
+    name_emiss: Мурманская область
+    name_datawrapper: Мурманская область
+    name_datawrapper_square: Мурманская область
+    name_tableau: Murmansk
+    alternative_names: []
+    okato: '47000000'
+    oktmo: '47000000'
+    fns_code: '51'
+    iso_code: RU-MUR
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  novgorod:
+    id: 490
+    name_rus: Новгородская область
+    name_eng: Novgorod
+    name_constitution: Новгородская область
+    name_fns: Новгородская область
+    name_fias: Новгородская область
+    name_rst_data: Новгородская область
+    name_emiss: Новгородская область
+    name_datawrapper: Новгородская область
+    name_datawrapper_square: Новгородская область
+    name_tableau: Novgorod
+    alternative_names: []
+    okato: '49000000'
+    oktmo: '49000000'
+    fns_code: '53'
+    iso_code: RU-NGR
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  pskov:
+    id: 580
+    name_rus: Псковская область
+    name_eng: Pskov
+    name_constitution: Псковская область
+    name_fns: Псковская область
+    name_fias: Псковская область
+    name_rst_data: Псковская область
+    name_emiss: Псковская область
+    name_datawrapper: Псковская область
+    name_datawrapper_square: Псковская область
+    name_tableau: Pskov
+    alternative_names: []
+    okato: '58000000'
+    oktmo: '58000000'
+    fns_code: '60'
+    iso_code: RU-PSK
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  saint-petersburg:
+    id: 400
+    name_rus: Санкт-Петербург
+    name_eng: Sankt-Peterburg
+    name_constitution: Санкт-Петербург
+    name_fns: город федерального значения Санкт-Петербург
+    name_fias: Г. Санкт-Петербург
+    name_rst_data: Город Санкт-Петербург город федерального значения
+    name_emiss: Город Санкт-Петербург город федерального значения
+    name_datawrapper: Санкт-Петербург
+    name_datawrapper_square: Санкт-Петербург
+    name_tableau: Sankt-Peterburg
+    alternative_names:
+    - г. Санкт Петербург
+    - г. Санкт- Петербург
+    okato: '40000000'
+    oktmo: '40000000'
+    fns_code: '78'
+    iso_code: RU-SPE
+    level: регион
+    parent_id: 3
+    parent_name: Северо-Западный федеральный округ
+  southern_fd:
+    id: 4
+    name_rus: Южный федеральный округ
+    name_eng: Southern Federal District
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Южный федеральный округ
+    name_emiss: Южный федеральный округ(по2009год)
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: None
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
+  adygea:
+    id: 790
+    name_rus: Республика Адыгея
+    name_eng: Adygey
+    name_constitution: Республика Адыгея (Адыгея)
+    name_fns: Республика Адыгея (Адыгея)
+    name_fias: Республика Адыгея (Адыгея)
+    name_rst_data: Республика Адыгея (Адыгея)
+    name_emiss: Республика Адыгея (Адыгея)
+    name_datawrapper: Республика Адыгея
+    name_datawrapper_square: Адыгея
+    name_tableau: Adygey
+    alternative_names: []
+    okato: '79000000'
+    oktmo: '79000000'
+    fns_code: '1'
+    iso_code: RU-AD
+    level: регион
+    parent_id: 4
+    parent_name: Южный федеральный округ
+  kalmykia:
+    id: 850
+    name_rus: Республика Калмыкия
+    name_eng: Kalmyk
+    name_constitution: Республика Калмыкия
+    name_fns: Республика Калмыкия
+    name_fias: Республика Калмыкия
+    name_rst_data: Республика Калмыкия
+    name_emiss: Республика  Калмыкия
+    name_datawrapper: Республика Калмыкия
+    name_datawrapper_square: Калмыкия
+    name_tableau: Kalmyk
+    alternative_names: []
+    okato: '85000000'
+    oktmo: '85000000'
+    fns_code: '8'
+    iso_code: RU-KL
+    level: регион
+    parent_id: 4
+    parent_name: Южный федеральный округ
+  сrimea:
+    id: 350
+    name_rus: Республика Крым
+    name_eng: Autonomna respublica Krym
+    name_constitution: Республика Крым
+    name_fns: Республика Крым
+    name_fias: Республика Крым
+    name_rst_data: Республика Крым
+    name_emiss: Республика Крым
+    name_datawrapper: Республика Крым
+    name_datawrapper_square: Крым
+    name_tableau: Autonomna respublica Krym
+    alternative_names: []
+    okato: '35000000'
+    oktmo: '35000000'
+    fns_code: '91'
+    iso_code: UA-43
+    level: регион
+    parent_id: 4
+    parent_name: Южный федеральный округ
+  krasnodar:
+    id: 30
+    name_rus: Краснодарский край
+    name_eng: Krasnodar
+    name_constitution: Краснодарский край
+    name_fns: Краснодарский край
+    name_fias: Краснодарский край
+    name_rst_data: Краснодарский край
+    name_emiss: Краснодарский край
+    name_datawrapper: Краснодарский край
+    name_datawrapper_square: Краснодарский край
+    name_tableau: Krasnodar
+    alternative_names: []
+    okato: '03000000'
+    oktmo: '03000000'
+    fns_code: '23'
+    iso_code: RU-KDA
+    level: регион
+    parent_id: 4
+    parent_name: Южный федеральный округ
+  astrakhan:
+    id: 120
+    name_rus: Астраханская область
+    name_eng: Astrakhan'
+    name_constitution: Астраханская область
+    name_fns: Астраханская область
+    name_fias: Астраханская область
+    name_rst_data: Астраханская область
+    name_emiss: Астраханская область
+    name_datawrapper: Астраханская область
+    name_datawrapper_square: Астраханская область
+    name_tableau: Astrakhan'
+    alternative_names: []
+    okato: '12000000'
+    oktmo: '12000000'
+    fns_code: '30'
+    iso_code: RU-AST
+    level: регион
+    parent_id: 4
+    parent_name: Южный федеральный округ
+  volgograd:
+    id: 180
+    name_rus: Волгоградская область
+    name_eng: Volgograd
+    name_constitution: Волгоградская область
+    name_fns: Волгоградская область
+    name_fias: Волгоградская область
+    name_rst_data: Волгоградская область
+    name_emiss: Волгоградская область
+    name_datawrapper: Волгоградская область
+    name_datawrapper_square: Волгоградская область
+    name_tableau: Volgograd
+    alternative_names: []
+    okato: '18000000'
+    oktmo: '18000000'
+    fns_code: '34'
+    iso_code: RU-VGG
+    level: регион
+    parent_id: 4
+    parent_name: Южный федеральный округ
+  rostov:
+    id: 600
+    name_rus: Ростовская область
+    name_eng: Rostov
+    name_constitution: Ростовская область
+    name_fns: Ростовская область
+    name_fias: Ростовская область
+    name_rst_data: Ростовская область
+    name_emiss: Ростовская область
+    name_datawrapper: Ростовская область
+    name_datawrapper_square: Ростовская область
+    name_tableau: Rostov
+    alternative_names: []
+    okato: '60000000'
+    oktmo: '60000000'
+    fns_code: '61'
+    iso_code: RU-ROS
+    level: регион
+    parent_id: 4
+    parent_name: Южный федеральный округ
+  sevastopol:
+    id: 670
+    name_rus: Севастополь
+    name_eng: Misto Sevastopol
+    name_constitution: Севастополь
+    name_fns: город федерального значения Севастополь
+    name_fias: Г. Севастополь
+    name_rst_data: Город федерального значения Севастополь
+    name_emiss: Город федерального значения Севастополь
+    name_datawrapper: Севастополь
+    name_datawrapper_square: Севастополь
+    name_tableau: Misto Sevastopol
+    alternative_names: []
+    okato: '67000000'
+    oktmo: '67000000'
+    fns_code: '92'
+    iso_code: UA-40
+    level: регион
+    parent_id: 4
+    parent_name: Южный федеральный округ
+  north-caucasian_fd:
+    id: 5
+    name_rus: Северо-Кавказский федеральный округ
+    name_eng: North Caucasian Federal District
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Северо-Кавказский федеральный округ
+    name_emiss: Северо-Кавказский федеральный округ
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: None
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
+  dagestan:
+    id: 820
+    name_rus: Республика Дагестан
+    name_eng: Dagestan
+    name_constitution: Республика Дагестан
+    name_fns: Республика Дагестан
+    name_fias: Республика Дагестан
+    name_rst_data: Республика Дагестан
+    name_emiss: Республика  Дагестан
+    name_datawrapper: Республика Дагестан
+    name_datawrapper_square: Дагестан
+    name_tableau: Dagestan
+    alternative_names: []
+    okato: '82000000'
+    oktmo: '82000000'
+    fns_code: '5'
+    iso_code: RU-DA
+    level: регион
+    parent_id: 5
+    parent_name: Северо-Кавказский федеральный округ
+  ingushetia:
+    id: 260
+    name_rus: Республика Ингушетия
+    name_eng: Ingushetia
+    name_constitution: Республика Ингушетия
+    name_fns: Республика Ингушетия
+    name_fias: Республика Ингушетия
+    name_rst_data: Республика Ингушетия
+    name_emiss: Республика  Ингушетия
+    name_datawrapper: Республика Ингушетия
+    name_datawrapper_square: Ингушетия
+    name_tableau: Ingushetia
+    alternative_names: []
+    okato: '26000000'
+    oktmo: '26000000'
+    fns_code: '6'
+    iso_code: RU-IN
+    level: регион
+    parent_id: 5
+    parent_name: Северо-Кавказский федеральный округ
+  kabardino-balkaria:
+    id: 830
+    name_rus: Кабардино-Балкарская Республика
+    name_eng: Kabardin-Balkar
+    name_constitution: Кабардино-Балкарская Республика
+    name_fns: Кабардино-Балкарская Республика
+    name_fias: Кабардино-Балкарская Республика
+    name_rst_data: Кабардино-Балкарская Республика
+    name_emiss: Кабардино-Балкарская Республика
+    name_datawrapper: Кабардино-Балкарская республика
+    name_datawrapper_square: Кабардино-Балкария
+    name_tableau: Kabardin-Balkar
+    alternative_names: []
+    okato: '83000000'
+    oktmo: '83000000'
+    fns_code: '7'
+    iso_code: RU-KB
+    level: регион
+    parent_id: 5
+    parent_name: Северо-Кавказский федеральный округ
+  karachay-cherkessia:
+    id: 910
+    name_rus: Карачаево-Черкесская Республика
+    name_eng: Karachay-Cherkess
+    name_constitution: Карачаево-Черкесская Республика
+    name_fns: Карачаево-Черкесская Республика
+    name_fias: Карачаево-Черкесская Республика
+    name_rst_data: Карачаево-Черкесская Республика
+    name_emiss: Карачаево-Черкесская Республика
+    name_datawrapper: Карачаево-Черкесская республика
+    name_datawrapper_square: Карачаево-Черкесия
+    name_tableau: Karachay-Cherkess
+    alternative_names: []
+    okato: '91000000'
+    oktmo: '91000000'
+    fns_code: '9'
+    iso_code: RU-KC
+    level: регион
+    parent_id: 5
+    parent_name: Северо-Кавказский федеральный округ
+  north-ossetia:
+    id: 900
+    name_rus: Республика Северная Осетия — Алания
+    name_eng: Respublika Severnaya Osetiya-Alaniya
+    name_constitution: Республика Северная Осетия — Алания
+    name_fns: Республика Северная Осетия - Алания
+    name_fias: Республика Северная Осетия - Алания
+    name_rst_data: Республика Северная Осетия-Алания
+    name_emiss: Республика Северная Осетия-Алания
+    name_datawrapper: Республика Северная Осетия — Алания
+    name_datawrapper_square: Северная Осетия — Алания
+    name_tableau: Respublika Severnaya Osetiya-Alaniya
+    alternative_names:
+    - Республика Северная Осетия - Алания
+    - Республика Северная Осетия-Алания
+    - Республика Северная Осетия –Алания
+    okato: '90000000'
+    oktmo: '90000000'
+    fns_code: '15'
+    iso_code: RU-SE
+    level: регион
+    parent_id: 5
+    parent_name: Северо-Кавказский федеральный округ
+  chechnya:
+    id: 960
+    name_rus: Чеченская Республика
+    name_eng: Chechnya
+    name_constitution: Чеченская Республика
+    name_fns: Чеченская Республика
+    name_fias: Чеченская Республика
+    name_rst_data: Чеченская Республика
+    name_emiss: Чеченская Республика
+    name_datawrapper: Чеченская республика
+    name_datawrapper_square: Чечня
+    name_tableau: Chechnya
+    alternative_names: []
+    okato: '96000000'
+    oktmo: '96000000'
+    fns_code: '20'
+    iso_code: RU-CE
+    level: регион
+    parent_id: 5
+    parent_name: Северо-Кавказский федеральный округ
+  stavropol:
+    id: 70
+    name_rus: Ставропольский край
+    name_eng: Stavropol
+    name_constitution: Ставропольский край
+    name_fns: Ставропольский край
+    name_fias: Ставропольский край
+    name_rst_data: Ставропольский край
+    name_emiss: Ставропольский край
+    name_datawrapper: Ставропольский край
+    name_datawrapper_square: Ставропольский край
+    name_tableau: Stavropol
+    alternative_names:
+    - Ставропольский край.
+    okato: '07000000'
+    oktmo: '07000000'
+    fns_code: '26'
+    iso_code: RU-STA
+    level: регион
+    parent_id: 5
+    parent_name: Северо-Кавказский федеральный округ
+  privolzhsky_fd:
+    id: 6
+    name_rus: Приволжский федеральный округ
+    name_eng: Privolzhsky Federal District
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Приволжский федеральный округ
+    name_emiss: Приволжский федеральный округ
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: None
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
+  bashkortostan:
+    id: 800
+    name_rus: Республика Башкортостан
+    name_eng: Bashkortostan
+    name_constitution: Республика Башкортостан
+    name_fns: Республика Башкортостан
+    name_fias: Республика Башкортостан
+    name_rst_data: Республика Башкортостан
+    name_emiss: Республика Башкортостан
+    name_datawrapper: Республика Башкортостан
+    name_datawrapper_square: Башкортостан
+    name_tableau: Bashkortostan
+    alternative_names: []
+    okato: '80000000'
+    oktmo: '80000000'
+    fns_code: '2'
+    iso_code: RU-BA
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  mari-el:
+    id: 880
+    name_rus: Республика Марий Эл
+    name_eng: Mariy-El
+    name_constitution: Республика Марий Эл
+    name_fns: Республика Марий Эл
+    name_fias: Республика Марий Эл
+    name_rst_data: Республика Марий Эл
+    name_emiss: Республика Марий Эл
+    name_datawrapper: Республика Марий Эл
+    name_datawrapper_square: Марий Эл
+    name_tableau: Mariy-El
+    alternative_names: []
+    okato: '88000000'
+    oktmo: '88000000'
+    fns_code: '12'
+    iso_code: RU-ME
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  mordovia:
+    id: 890
+    name_rus: Республика Мордовия
+    name_eng: Mordovia
+    name_constitution: Республика Мордовия
+    name_fns: Республика Мордовия
+    name_fias: Республика Мордовия
+    name_rst_data: Республика Мордовия
+    name_emiss: Республика Мордовия
+    name_datawrapper: Республика Мордовия
+    name_datawrapper_square: Мордовия
+    name_tableau: Mordovia
+    alternative_names: []
+    okato: '89000000'
+    oktmo: '89000000'
+    fns_code: '13'
+    iso_code: RU-MO
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  tatarstan:
+    id: 920
+    name_rus: Республика Татарстан
+    name_eng: Tatarstan
+    name_constitution: Республика Татарстан (Татарстан)
+    name_fns: Республика Татарстан (Татарстан)
+    name_fias: Республика Татарстан (Татарстан)
+    name_rst_data: Республика Татарстан (Татарстан)
+    name_emiss: Республика Татарстан (Татарстан)
+    name_datawrapper: Республика Татарстан
+    name_datawrapper_square: Татарстан
+    name_tableau: Tatarstan
+    alternative_names: []
+    okato: '92000000'
+    oktmo: '92000000'
+    fns_code: '16'
+    iso_code: RU-TA
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  udmurt:
+    id: 940
+    name_rus: Удмуртская Республика
+    name_eng: Udmurt
+    name_constitution: Удмуртская Республика
+    name_fns: Удмуртская Республика
+    name_fias: Удмуртская Республика
+    name_rst_data: Удмуртская Республика
+    name_emiss: Удмуртская Республика
+    name_datawrapper: Удмуртская республика
+    name_datawrapper_square: Удмуртия
+    name_tableau: Udmurt
+    alternative_names: []
+    okato: '94000000'
+    oktmo: '94000000'
+    fns_code: '18'
+    iso_code: RU-UD
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  chuvashia:
+    id: 970
+    name_rus: Чувашская Республика
+    name_eng: Chuvash
+    name_constitution: Чувашская Республика — Чувашия
+    name_fns: Чувашская Республика - Чувашия
+    name_fias: Чувашская Республика - Чувашия
+    name_rst_data: Чувашская Республика - Чувашия
+    name_emiss: Чувашская Республика - Чувашия
+    name_datawrapper: Чувашская республика
+    name_datawrapper_square: Чувашия
+    name_tableau: Chuvash
+    alternative_names: []
+    okato: '97000000'
+    oktmo: '97000000'
+    fns_code: '21'
+    iso_code: RU-CU
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  perm:
+    id: 570
+    name_rus: Пермский край
+    name_eng: Perm
+    name_constitution: Пермский край
+    name_fns: Пермский край
+    name_fias: Пермский край
+    name_rst_data: Пермский край
+    name_emiss: Пермский край
+    name_datawrapper: Пермский край
+    name_datawrapper_square: Пермский край
+    name_tableau: Perm
+    alternative_names: []
+    okato: '57000000'
+    oktmo: '57000000'
+    fns_code: '59'
+    iso_code: RU-PER
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  kirov:
+    id: 330
+    name_rus: Кировская область
+    name_eng: Kirov
+    name_constitution: Кировская область
+    name_fns: Кировская область
+    name_fias: Кировская область
+    name_rst_data: Кировская область
+    name_emiss: Кировская область
+    name_datawrapper: Кировская область
+    name_datawrapper_square: Кировская область
+    name_tableau: Kirov
+    alternative_names: []
+    okato: '33000000'
+    oktmo: '33000000'
+    fns_code: '43'
+    iso_code: RU-KIR
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  nizhny-novgorod:
+    id: 220
+    name_rus: Нижегородская область
+    name_eng: Nizhny Novgorod
+    name_constitution: Нижегородская область
+    name_fns: Нижегородская область
+    name_fias: Нижегородская область
+    name_rst_data: Нижегородская область
+    name_emiss: Нижегородская область
+    name_datawrapper: Нижегородская область
+    name_datawrapper_square: Нижегородская область
+    name_tableau: Nizhny Novgorod
+    alternative_names: []
+    okato: '22000000'
+    oktmo: '22000000'
+    fns_code: '52'
+    iso_code: RU-NIZ
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  orenburg:
+    id: 530
+    name_rus: Оренбургская область
+    name_eng: Orenburg
+    name_constitution: Оренбургская область
+    name_fns: Оренбургская область
+    name_fias: Оренбургская область
+    name_rst_data: Оренбургская область
+    name_emiss: Оренбургская область
+    name_datawrapper: Оренбургская область
+    name_datawrapper_square: Оренбургская область
+    name_tableau: Orenburg
+    alternative_names: []
+    okato: '53000000'
+    oktmo: '53000000'
+    fns_code: '56'
+    iso_code: RU-ORE
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  penza:
+    id: 560
+    name_rus: Пензенская область
+    name_eng: Penza
+    name_constitution: Пензенская область
+    name_fns: Пензенская область
+    name_fias: Пензенская область
+    name_rst_data: Пензенская область
+    name_emiss: Пензенская область
+    name_datawrapper: Пензенская область
+    name_datawrapper_square: Пензенская область
+    name_tableau: Penza
+    alternative_names: []
+    okato: '56000000'
+    oktmo: '56000000'
+    fns_code: '58'
+    iso_code: RU-PNZ
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  samara:
+    id: 360
+    name_rus: Самарская область
+    name_eng: Samara
+    name_constitution: Самарская область
+    name_fns: Самарская область
+    name_fias: Самарская область
+    name_rst_data: Самарская область
+    name_emiss: Самарская область
+    name_datawrapper: Самарская область
+    name_datawrapper_square: Самарская область
+    name_tableau: Samara
+    alternative_names: []
+    okato: '36000000'
+    oktmo: '36000000'
+    fns_code: '63'
+    iso_code: RU-SAM
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  saratov:
+    id: 630
+    name_rus: Саратовская область
+    name_eng: Saratov
+    name_constitution: Саратовская область
+    name_fns: Саратовская область
+    name_fias: Саратовская область
+    name_rst_data: Саратовская область
+    name_emiss: Саратовская область
+    name_datawrapper: Саратовская область
+    name_datawrapper_square: Саратовская область
+    name_tableau: Saratov
+    alternative_names: []
+    okato: '63000000'
+    oktmo: '63000000'
+    fns_code: '64'
+    iso_code: RU-SAR
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  ulyanovsk:
+    id: 730
+    name_rus: Ульяновская область
+    name_eng: Ulyanovsk
+    name_constitution: Ульяновская область
+    name_fns: Ульяновская область
+    name_fias: Ульяновская область
+    name_rst_data: Ульяновская область
+    name_emiss: Ульяновская область
+    name_datawrapper: Ульяновская область
+    name_datawrapper_square: Ульяновская область
+    name_tableau: Ulyanovsk
+    alternative_names: []
+    okato: '73000000'
+    oktmo: '73000000'
+    fns_code: '73'
+    iso_code: RU-ULY
+    level: регион
+    parent_id: 6
+    parent_name: Приволжский федеральный округ
+  ural_fd:
+    id: 7
+    name_rus: Уральский федеральный округ
+    name_eng: Ural Federal District
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Уральский федеральный округ
+    name_emiss: Уральский федеральный округ
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: None
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
+  kurgan:
+    id: 370
+    name_rus: Курганская область
+    name_eng: Kurgan
+    name_constitution: Курганская область
+    name_fns: Курганская область
+    name_fias: Курганская область
+    name_rst_data: Курганская область
+    name_emiss: Курганская область
+    name_datawrapper: Курганская область
+    name_datawrapper_square: Курганская область
+    name_tableau: Kurgan
+    alternative_names: []
+    okato: '37000000'
+    oktmo: '37000000'
+    fns_code: '45'
+    iso_code: RU-KGN
+    level: регион
+    parent_id: 7
+    parent_name: Уральский федеральный округ
+  sverdlovsk:
+    id: 650
+    name_rus: Свердловская область
+    name_eng: Sverdlovsk
+    name_constitution: Свердловская область
+    name_fns: Свердловская область
+    name_fias: Свердловская область
+    name_rst_data: Свердловская область
+    name_emiss: Свердловская область
+    name_datawrapper: Свердловская область
+    name_datawrapper_square: Свердловская область
+    name_tableau: Sverdlovsk
+    alternative_names: []
+    okato: '65000000'
+    oktmo: '65000000'
+    fns_code: '66'
+    iso_code: RU-SVE
+    level: регион
+    parent_id: 7
+    parent_name: Уральский федеральный округ
+  tyumen:
+    id: 710
+    name_rus: Тюменская область
+    name_eng: Tyumen
+    name_constitution: Тюменская область
+    name_fns: Тюменская область
+    name_fias: Тюменская область
+    name_rst_data: Тюменская область
+    name_emiss: Тюменская область
+    name_datawrapper: Тюменская область
+    name_datawrapper_square: Тюменская область
+    name_tableau: Tyumen
+    alternative_names: []
+    okato: '71000000'
+    oktmo: '71000000'
+    fns_code: '72'
+    iso_code: RU-TYU
+    level: регион
+    parent_id: 7
+    parent_name: Уральский федеральный округ
+  khanty-mansi:
+    id: 718
+    name_rus: Ханты-Мансийский автономный округ — Югра
+    name_eng: Khanty-Mansiyskiy Avtonomnyy Okrug
+    name_constitution: Ханты-Мансийский автономный округ — Югра
+    name_fns: Ханты-Мансийский автономный округ - Югра
+    name_fias: Ханты-Мансийский автономный округ - Югра
+    name_rst_data: Ханты-Мансийский автономный округ - Югра (Тюменская область)
+    name_emiss: Ханты-Мансийский автономный округ - Югра (Тюменская область)
+    name_datawrapper: Ханты-Мансийский автономный округ — Югра
+    name_datawrapper_square: Ханты-Мансийский АО — Югра
+    name_tableau: Khanty-Mansiyskiy Avtonomnyy Okrug
+    alternative_names:
+    - Ханты-Мансийский автономный округ – Югра
+    - Ханты-Мансийский автономный округ –Югра
+    - Ханты-Мансийский автономный округ-Югра
+    - Ханты Мансийский автономный округ - Югра
+    - Ханты Мансийский автономный округ – Югра
+    okato: '71100000'
+    oktmo: '71800000'
+    fns_code: '86'
+    iso_code: RU-KHM
+    level: регион
+    parent_id: 710
+    parent_name: Уральский федеральный округ
+  yamalo-nenets:
+    id: 719
+    name_rus: Ямало-Ненецкий автономный округ
+    name_eng: Yamal-Nenets
+    name_constitution: Ямало-Ненецкий автономный округ
+    name_fns: Ямало-Ненецкий автономный округ
+    name_fias: Ямало-Ненецкий автономный округ
+    name_rst_data: Ямало-Ненецкий автономный округ (Тюменская область)
+    name_emiss: Ямало-Ненецкий автономный округ (Тюменская область)
+    name_datawrapper: Ямало-Ненецкий автономный округ
+    name_datawrapper_square: Ямало-Ненецкий АО
+    name_tableau: Yamal-Nenets
+    alternative_names: []
+    okato: '71140000'
+    oktmo: '71900000'
+    fns_code: '89'
+    iso_code: RU-YAN
+    level: регион
+    parent_id: 710
+    parent_name: Уральский федеральный округ
+  tyumen-without-okrug:
+    id: 716
+    name_rus: Тюменская область без автономных округов
+    name_eng: Tyumen without Autonomous Okrugs
+    name_constitution: None
+    name_fns: Тюменская область без автономных округов
+    name_fias: Тюменская область без автономных округов
+    name_rst_data: Тюменская область без автономных округов
+    name_emiss: Тюменская область без автономных округов
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '71200000'
+    oktmo: '71600000'
+    fns_code: None
+    iso_code: None
+    level: регион
+    parent_id: 710
+    parent_name: Тюменская область
+  chelyabinsk:
+    id: 750
+    name_rus: Челябинская область
+    name_eng: Chelyabinsk
+    name_constitution: Челябинская область
+    name_fns: Челябинская область
+    name_fias: Челябинская область
+    name_rst_data: Челябинская область
+    name_emiss: Челябинская область
+    name_datawrapper: Челябинская область
+    name_datawrapper_square: Челябинская область
+    name_tableau: Chelyabinsk
+    alternative_names: []
+    okato: '75000000'
+    oktmo: '75000000'
+    fns_code: '74'
+    iso_code: RU-CHE
+    level: регион
+    parent_id: 7
+    parent_name: Уральский федеральный округ
+  siberian_fd:
+    id: 8
+    name_rus: Сибирский федеральный округ
+    name_eng: Siberian Federal District
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Сибирский федеральный округ
+    name_emiss: Сибирский федеральный округ
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: None
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
+  gorno-altai:
+    id: 840
+    name_rus: Республика Алтай
+    name_eng: Altay
+    name_constitution: Республика Алтай
+    name_fns: Республика Алтай
+    name_fias: Республика Алтай
+    name_rst_data: Республика Алтай
+    name_emiss: Республика Алтай
+    name_datawrapper: Республика Алтай
+    name_datawrapper_square: Алтай
+    name_tableau: Altay
+    alternative_names: []
+    okato: '84000000'
+    oktmo: '84000000'
+    fns_code: '4'
+    iso_code: RU-AL
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  tuva:
+    id: 930
+    name_rus: Республика Тыва
+    name_eng: Tuva
+    name_constitution: Республика Тыва
+    name_fns: Республика Тыва
+    name_fias: Республика Тыва
+    name_rst_data: Республика Тыва
+    name_emiss: Республика Тыва
+    name_datawrapper: Республика Тыва
+    name_datawrapper_square: Тыва
+    name_tableau: Tuva
+    alternative_names: []
+    okato: '93000000'
+    oktmo: '93000000'
+    fns_code: '17'
+    iso_code: RU-TY
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  khakassia:
+    id: 950
+    name_rus: Республика Хакасия
+    name_eng: Khakass
+    name_constitution: Республика Хакасия
+    name_fns: Республика Хакасия
+    name_fias: Республика Хакасия
+    name_rst_data: Республика Хакасия
+    name_emiss: Республика Хакасия
+    name_datawrapper: Республика Хакасия
+    name_datawrapper_square: Хакасия
+    name_tableau: Khakass
+    alternative_names: []
+    okato: '95000000'
+    oktmo: '95000000'
+    fns_code: '19'
+    iso_code: RU-KK
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  altai:
+    id: 10
+    name_rus: Алтайский край
+    name_eng: Altayskiy
+    name_constitution: Алтайский край
+    name_fns: Алтайский край
+    name_fias: Алтайский край
+    name_rst_data: Алтайский край
+    name_emiss: Алтайский край
+    name_datawrapper: Алтайский край
+    name_datawrapper_square: Алтайский край
+    name_tableau: Altayskiy
+    alternative_names: []
+    okato: '01000000'
+    oktmo: '01000000'
+    fns_code: '22'
+    iso_code: RU-ALT
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  krasnoyarsk:
+    id: 40
+    name_rus: Красноярский край
+    name_eng: Krasnoyarsk
+    name_constitution: Красноярский край
+    name_fns: Красноярский край
+    name_fias: Красноярский край
+    name_rst_data: Красноярский край
+    name_emiss: Красноярский край
+    name_datawrapper: Красноярский край
+    name_datawrapper_square: Красноярский край
+    name_tableau: Krasnoyarsk
+    alternative_names: []
+    okato: '04000000'
+    oktmo: '04000000'
+    fns_code: '24'
+    iso_code: RU-KYA
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  irkutsk:
+    id: 250
+    name_rus: Иркутская область
+    name_eng: Irkutsk
+    name_constitution: Иркутская область
+    name_fns: Иркутская область
+    name_fias: Иркутская область
+    name_rst_data: Иркутская область
+    name_emiss: Иркутская область
+    name_datawrapper: Иркутская область
+    name_datawrapper_square: Иркутская область
+    name_tableau: Irkutsk
+    alternative_names: []
+    okato: '25000000'
+    oktmo: '25000000'
+    fns_code: '38'
+    iso_code: RU-IRK
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  kemerovo:
+    id: 320
+    name_rus: Кемеровская область
+    name_eng: Kemerovo
+    name_constitution: Кемеровская область — Кузбасс
+    name_fns: Кемеровская область - Кузбасс
+    name_fias: Кемеровская область
+    name_rst_data: Кемеровская область - Кузбасс
+    name_emiss: Кемеровская область - Кузбасс
+    name_datawrapper: Кемеровская область
+    name_datawrapper_square: Кемеровская область — Кузбасс
+    name_tableau: Kemerovo
+    alternative_names:
+    - Кемеровская область - Кузбасс
+    okato: '32000000'
+    oktmo: '32000000'
+    fns_code: '42'
+    iso_code: RU-KEM
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  novosibirsk:
+    id: 500
+    name_rus: Новосибирская область
+    name_eng: Novosibirsk
+    name_constitution: Новосибирская область
+    name_fns: Новосибирская область
+    name_fias: Новосибирская область
+    name_rst_data: Новосибирская область
+    name_emiss: Новосибирская область
+    name_datawrapper: Новосибирская область
+    name_datawrapper_square: Новосибирская область
+    name_tableau: Novosibirsk
+    alternative_names: []
+    okato: '50000000'
+    oktmo: '50000000'
+    fns_code: '54'
+    iso_code: RU-NVS
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  omsk:
+    id: 520
+    name_rus: Омская область
+    name_eng: Omsk
+    name_constitution: Омская область
+    name_fns: Омская область
+    name_fias: Омская область
+    name_rst_data: Омская область
+    name_emiss: Омская область
+    name_datawrapper: Омская область
+    name_datawrapper_square: Омская область
+    name_tableau: Omsk
+    alternative_names: []
+    okato: '52000000'
+    oktmo: '52000000'
+    fns_code: '55'
+    iso_code: RU-OMS
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  tomsk:
+    id: 690
+    name_rus: Томская область
+    name_eng: Tomsk
+    name_constitution: Томская область
+    name_fns: Томская область
+    name_fias: Томская область
+    name_rst_data: Томская область
+    name_emiss: Томская область
+    name_datawrapper: Томская область
+    name_datawrapper_square: Томская область
+    name_tableau: Tomsk
+    alternative_names: []
+    okato: '69000000'
+    oktmo: '69000000'
+    fns_code: '70'
+    iso_code: RU-TOM
+    level: регион
+    parent_id: 8
+    parent_name: Сибирский федеральный округ
+  far_eastern_fd:
+    id: 9
+    name_rus: Дальневосточный федеральный округ
+    name_eng: Far Eastern Federal District
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Дальневосточный федеральный округ
+    name_emiss: Дальневосточный федеральный округ
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: []
+    okato: '00000000'
+    oktmo: '00000000'
+    fns_code: None
+    iso_code: None
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
+  buryatia:
+    id: 810
+    name_rus: Республика Бурятия
+    name_eng: Buryatiya, Republic
+    name_constitution: Республика Бурятия
+    name_fns: Республика Бурятия
+    name_fias: Республика Бурятия
+    name_rst_data: Республика Бурятия
+    name_emiss: Республика Бурятия
+    name_datawrapper: Республика Бурятия
+    name_datawrapper_square: Бурятия
+    name_tableau: Buryatiya, Republic
+    alternative_names: []
+    okato: '81000000'
+    oktmo: '81000000'
+    fns_code: '3'
+    iso_code: RU-BU
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  sakha:
+    id: 980
+    name_rus: Республика Саха (Якутия)
+    name_eng: Sakha Republic
+    name_constitution: Республика Саха (Якутия)
+    name_fns: Республика Саха (Якутия)
+    name_fias: Республика Саха (Якутия)
+    name_rst_data: Республика Саха (Якутия)
+    name_emiss: Республика Саха (Якутия)
+    name_datawrapper: Республика Саха (Якутия)
+    name_datawrapper_square: Саха — Якутия
+    name_tableau: Sakha Republic
+    alternative_names: []
+    okato: '98000000'
+    oktmo: '98000000'
+    fns_code: '14'
+    iso_code: RU-SA
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  zabaykalsky:
+    id: 760
+    name_rus: Забайкальский край
+    name_eng: Zabaikalski Kray
+    name_constitution: Забайкальский край
+    name_fns: Забайкальский край
+    name_fias: Забайкальский край
+    name_rst_data: Забайкальский край
+    name_emiss: Забайкальский край
+    name_datawrapper: Забайкальский край
+    name_datawrapper_square: Забайкальский край
+    name_tableau: Zabaikalski Kray
+    alternative_names: []
+    okato: '76000000'
+    oktmo: '76000000'
+    fns_code: '75'
+    iso_code: RU-ZAB
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  kamchatka:
+    id: 300
+    name_rus: Камчатский край
+    name_eng: Kamchatka
+    name_constitution: Камчатский край
+    name_fns: Камчатский край
+    name_fias: Камчатский край
+    name_rst_data: Камчатский край
+    name_emiss: Камчатский край
+    name_datawrapper: Камчатский край
+    name_datawrapper_square: Камчатский край
+    name_tableau: Kamchatka
+    alternative_names:
+    - Камчатская область
+    okato: '30000000'
+    oktmo: '30000000'
+    fns_code: '41'
+    iso_code: RU-KAM
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  primorsky:
+    id: 50
+    name_rus: Приморский край
+    name_eng: Primorsky
+    name_constitution: Приморский край
+    name_fns: Приморский край
+    name_fias: Приморский край
+    name_rst_data: Приморский край
+    name_emiss: Приморский край
+    name_datawrapper: Приморский край
+    name_datawrapper_square: Приморский край
+    name_tableau: Primorsky
+    alternative_names: []
+    okato: '05000000'
+    oktmo: '05000000'
+    fns_code: '25'
+    iso_code: RU-PRI
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  khabarovsk:
+    id: 80
+    name_rus: Хабаровский край
+    name_eng: Khabarovsk
+    name_constitution: Хабаровский край
+    name_fns: Хабаровский край
+    name_fias: Хабаровский край
+    name_rst_data: Хабаровский край
+    name_emiss: Хабаровский край
+    name_datawrapper: Хабаровский край
+    name_datawrapper_square: Хабаровский край
+    name_tableau: Khabarovsk
+    alternative_names: []
+    okato: '08000000'
+    oktmo: '08000000'
+    fns_code: '27'
+    iso_code: RU-KHA
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  amur:
+    id: 100
+    name_rus: Амурская область
+    name_eng: Amur
+    name_constitution: Амурская область
+    name_fns: Амурская область
+    name_fias: Амурская область
+    name_rst_data: Амурская область
+    name_emiss: Амурская область
+    name_datawrapper: Амурская область
+    name_datawrapper_square: Амурская область
+    name_tableau: Amur
+    alternative_names: []
+    okato: '10000000'
+    oktmo: '10000000'
+    fns_code: '28'
+    iso_code: RU-AMU
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  magadan:
+    id: 440
+    name_rus: Магаданская область
+    name_eng: Magadanskaya Oblast'
+    name_constitution: Магаданская область
+    name_fns: Магаданская область
+    name_fias: Магаданская область
+    name_rst_data: Магаданская область
+    name_emiss: Магаданская область
+    name_datawrapper: Магаданская область
+    name_datawrapper_square: Магаданская область
+    name_tableau: Magadanskaya Oblast'
+    alternative_names: []
+    okato: '44000000'
+    oktmo: '44000000'
+    fns_code: '49'
+    iso_code: RU-MAG
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  sakhalin:
+    id: 640
+    name_rus: Сахалинская область
+    name_eng: Sakhalin
+    name_constitution: Сахалинская область
+    name_fns: Сахалинская область
+    name_fias: Сахалинская область
+    name_rst_data: Сахалинская область
+    name_emiss: Сахалинская область
+    name_datawrapper: Сахалинская область
+    name_datawrapper_square: Сахалинская область
+    name_tableau: Sakhalin
+    alternative_names: []
+    okato: '64000000'
+    oktmo: '64000000'
+    fns_code: '65'
+    iso_code: RU-SAK
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  jewish:
+    id: 990
+    name_rus: Еврейская автономная область
+    name_eng: Yevrey
+    name_constitution: Еврейская автономная область
+    name_fns: Еврейская автономная область
+    name_fias: Еврейская автономная область
+    name_rst_data: Еврейская автономная область
+    name_emiss: Еврейская автономная область
+    name_datawrapper: Еврейская автономная область
+    name_datawrapper_square: Еврейская АО
+    name_tableau: Yevrey
+    alternative_names: []
+    okato: '99000000'
+    oktmo: '99000000'
+    fns_code: '79'
+    iso_code: RU-YEV
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  chukotka:
+    id: 770
+    name_rus: Чукотский автономный округ
+    name_eng: Chukotskiy Avtonomnyy Okrug
+    name_constitution: Чукотский автономный округ
+    name_fns: Чукотский автономный округ
+    name_fias: Чукотский автономный округ
+    name_rst_data: Чукотский автономный округ
+    name_emiss: Чукотский автономный округ
+    name_datawrapper: Чукотский автономный округ
+    name_datawrapper_square: Чукотский АО
+    name_tableau: Chukotskiy Avtonomnyy Okrug
+    alternative_names: []
+    okato: '77000000'
+    oktmo: '77000000'
+    fns_code: '87'
+    iso_code: RU-CHU
+    level: регион
+    parent_id: 9
+    parent_name: Дальневосточный федеральный округ
+  baikonur:
+    id: 550
+    name_rus: Иные территории, включая Байконур
+    name_eng: Baikonur
+    name_constitution: None
+    name_fns: None
+    name_fias: None
+    name_rst_data: Иные территории, включая Байконур
+    name_emiss: Иные территории, включая Байконур
+    name_datawrapper: None
+    name_datawrapper_square: None
+    name_tableau: None
+    alternative_names: [ ]
+    okato: '55000000'
+    oktmo: '55000000'
+    fns_code: 99
+    iso_code: KZ-BAY
+    level: федеральный округ
+    parent_id: 1
+    parent_name: Российская Федерация
